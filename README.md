@@ -32,6 +32,5 @@ I love exploring **ethical AI** and **decentralised technologies** 🌍✨
 ---
 
 ### 🌐 Connect
-📩 [Email Me](mailto:anshana.manoharan.11i.12262@gmail.com)  
 🔗 [LinkedIn](https://linkedin.com/in/anshana-manoharan)  
 💼 [Portfolio](#)  
