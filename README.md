@@ -14,12 +14,14 @@ I love exploring **ethical AI** and **decentralised technologies** 🌍✨
 ---
 
 ### 📂 Projects
+- **Synthetic Data-Driven Machine Learning for Total Phosphorus Estimation in Water Quality Prediction** 📚
+  Research study on a small dataset of water quality samples to detect total phosphorous levels. 
 - **dWill – Your Will at Your Fingertips** 🪙  
   Blockchain-based storage & transfer system (🥇 Industry Award)  
 - **Pedestrian Detection with CNNs & ViTs** 🚦  
-  Dissertation comparing state-of-the-art object detection models  
+  Dissertation comparing state-of-the-art object detection models for pedestrian detection.
 - **MetaCognify** 📚  
-  AI-powered educational tool using Falcon 2 models  
+  AI-powered educational tool using Falcon 2 models (lablab.ai hackathon submission)
 
 ---
 
