@@ -14,7 +14,7 @@ I love exploring **ethical AI** and **decentralised technologies** 🌍✨
 ---
 
 ### 📂 Projects
-- **Synthetic Data-Driven Machine Learning for Total Phosphorus Estimation in Water Quality Prediction** 📚
+- **Synthetic Data-Driven Machine Learning for Total Phosphorus Estimation in Water Quality Prediction** 📚  
   Research study on a small dataset of water quality samples to detect total phosphorous levels. 
 - **dWill – Your Will at Your Fingertips** 🪙  
   Blockchain-based storage & transfer system (🥇 Industry Award)  
