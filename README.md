@@ -5,7 +5,7 @@ I love exploring **ethical AI** and **decentralised technologies**
 
 ---
 
-### 🛠️ Skills
+### Skills
 - **Programming:** Python, Java, Solidity, C, SQL  
 - **Web & Tools:** Next.js, React, TypeScript, Git/GitHub  
 - **AI/ML:** CNNs, ViTs, VAEs, OpenAI Gymnasium  
